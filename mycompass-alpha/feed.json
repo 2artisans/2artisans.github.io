@@ -1,0 +1,115 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MyCompass",
+    "description": "",
+    "home_page_url": "https://2artisans.github.io/mycompass-alpha",
+    "feed_url": "https://2artisans.github.io/mycompass-alpha/feed.json",
+    "user_comment": "",
+    "icon": "https://2artisans.github.io/mycompass-alpha/media/website/BUTTRF13.png",
+    "author": {
+        "name": "2artisans"
+    },
+    "items": [
+        {
+            "id": "https://2artisans.github.io/mycompass-alpha/audiobook-creator-4.html",
+            "url": "https://2artisans.github.io/mycompass-alpha/audiobook-creator-4.html",
+            "title": "Writing Modifier",
+            "content_html": "<iframe loading=\"lazy\" width=\"100%\" id=\"dynamic-iframe\" src=\"https://web.hydn.cc/askdaisy/programs/writing_modifier\" frameborder=\"0\" data-responsive=\"false\"></iframe>\n<p>\n<script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n    function adjustIframeHeight() {\n        const iframe = document.getElementById(\"dynamic-iframe\");\n        if (iframe) {\n            const viewportHeight = window.innerHeight;\n            const iframeOffsetTop = iframe.offsetTop;\n            const calculatedHeight = viewportHeight - iframeOffsetTop;\n            iframe.style.height = `${calculatedHeight}px`;\n        }\n    }\n\n    // Adjust on load\n    adjustIframeHeight();\n\n    // Adjust on window resize\n    window.addEventListener(\"resize\", adjustIframeHeight);\n});\n         </script>\n</p>",
+            "author": {
+                "name": "2artisans"
+            },
+            "tags": [
+                   "Writing Tools",
+                   "Toolbox"
+            ],
+            "date_published": "2025-01-16T18:30:33-05:00",
+            "date_modified": "2025-01-16T18:31:30-05:00"
+        },
+        {
+            "id": "https://2artisans.github.io/mycompass-alpha/audiobook-creator-3.html",
+            "url": "https://2artisans.github.io/mycompass-alpha/audiobook-creator-3.html",
+            "title": "Detail Helper",
+            "content_html": "<iframe loading=\"lazy\" width=\"100%\" id=\"dynamic-iframe\" src=\"https://web.hydn.cc/askdaisy/programs/writing_adder\" frameborder=\"0\" data-responsive=\"false\"></iframe>\n<p>\n<script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n    function adjustIframeHeight() {\n        const iframe = document.getElementById(\"dynamic-iframe\");\n        if (iframe) {\n            const viewportHeight = window.innerHeight;\n            const iframeOffsetTop = iframe.offsetTop;\n            const calculatedHeight = viewportHeight - iframeOffsetTop;\n            iframe.style.height = `${calculatedHeight}px`;\n        }\n    }\n\n    // Adjust on load\n    adjustIframeHeight();\n\n    // Adjust on window resize\n    window.addEventListener(\"resize\", adjustIframeHeight);\n});\n         </script>\n</p>",
+            "author": {
+                "name": "2artisans"
+            },
+            "tags": [
+                   "Writing Tools",
+                   "Toolbox"
+            ],
+            "date_published": "2025-01-16T18:29:33-05:00",
+            "date_modified": "2025-01-16T18:31:38-05:00"
+        },
+        {
+            "id": "https://2artisans.github.io/mycompass-alpha/audiobook-creator-2.html",
+            "url": "https://2artisans.github.io/mycompass-alpha/audiobook-creator-2.html",
+            "title": "Autism Translator",
+            "content_html": "<iframe loading=\"lazy\" width=\"100%\" id=\"dynamic-iframe\" src=\"https://web.hydn.cc/askdaisy/programs/autism_translator\" frameborder=\"0\" data-responsive=\"false\"></iframe>\n<p>\n<script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n    function adjustIframeHeight() {\n        const iframe = document.getElementById(\"dynamic-iframe\");\n        if (iframe) {\n            const viewportHeight = window.innerHeight;\n            const iframeOffsetTop = iframe.offsetTop;\n            const calculatedHeight = viewportHeight - iframeOffsetTop;\n            iframe.style.height = `${calculatedHeight}px`;\n        }\n    }\n\n    // Adjust on load\n    adjustIframeHeight();\n\n    // Adjust on window resize\n    window.addEventListener(\"resize\", adjustIframeHeight);\n});\n         </script>\n</p>",
+            "author": {
+                "name": "2artisans"
+            },
+            "tags": [
+                   "Toolbox",
+                   "Neurodivergence"
+            ],
+            "date_published": "2025-01-16T18:29:07-05:00",
+            "date_modified": "2025-01-16T18:31:59-05:00"
+        },
+        {
+            "id": "https://2artisans.github.io/mycompass-alpha/about-mycompass.html",
+            "url": "https://2artisans.github.io/mycompass-alpha/about-mycompass.html",
+            "title": "About MyCompass",
+            "author": {
+                "name": "2artisans"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-14T13:56:51-05:00",
+            "date_modified": "2025-01-14T13:56:51-05:00"
+        },
+        {
+            "id": "https://2artisans.github.io/mycompass-alpha/chat-test-program.html",
+            "url": "https://2artisans.github.io/mycompass-alpha/chat-test-program.html",
+            "title": "Chat With DAiSY",
+            "content_html": "<iframe loading=\"lazy\" width=\"100%\" id=\"dynamic-iframe\" src=\"https://web.hydn.cc/askdaisy/programs/chat/\" frameborder=\"0\" data-responsive=\"false\"></iframe>\n<p>\n<script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n    function adjustIframeHeight() {\n        const iframe = document.getElementById(\"dynamic-iframe\");\n        if (iframe) {\n            const viewportHeight = window.innerHeight;\n            const iframeOffsetTop = iframe.offsetTop;\n            const calculatedHeight = viewportHeight - iframeOffsetTop;\n            iframe.style.height = `${calculatedHeight}px`;\n        }\n    }\n\n    // Adjust on load\n    adjustIframeHeight();\n\n    // Adjust on window resize\n    window.addEventListener(\"resize\", adjustIframeHeight);\n});\n         </script>\n</p>",
+            "author": {
+                "name": "2artisans"
+            },
+            "tags": [
+                   "Toolbox"
+            ],
+            "date_published": "2025-01-13T20:01:29-05:00",
+            "date_modified": "2025-01-16T18:28:18-05:00"
+        },
+        {
+            "id": "https://2artisans.github.io/mycompass-alpha/transition-planner.html",
+            "url": "https://2artisans.github.io/mycompass-alpha/transition-planner.html",
+            "title": "Transition Writer",
+            "content_html": "<iframe loading=\"lazy\" width=\"100%\" id=\"dynamic-iframe\" src=\"https://web.hydn.cc/askdaisy/programs/writing_transitioner/\" frameborder=\"0\" data-responsive=\"false\"></iframe>\n<p>\n<script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n    function adjustIframeHeight() {\n        const iframe = document.getElementById(\"dynamic-iframe\");\n        if (iframe) {\n            const viewportHeight = window.innerHeight;\n            const iframeOffsetTop = iframe.offsetTop;\n            const calculatedHeight = viewportHeight - iframeOffsetTop;\n            iframe.style.height = `${calculatedHeight}px`;\n        }\n    }\n\n    // Adjust on load\n    adjustIframeHeight();\n\n    // Adjust on window resize\n    window.addEventListener(\"resize\", adjustIframeHeight);\n});\n         </script>\n</p>",
+            "author": {
+                "name": "2artisans"
+            },
+            "tags": [
+                   "Writing Tools",
+                   "Toolbox"
+            ],
+            "date_published": "2025-01-13T19:55:52-05:00",
+            "date_modified": "2025-01-16T18:32:10-05:00"
+        },
+        {
+            "id": "https://2artisans.github.io/mycompass-alpha/audiobook-creator.html",
+            "url": "https://2artisans.github.io/mycompass-alpha/audiobook-creator.html",
+            "title": "Reader",
+            "content_html": "<iframe loading=\"lazy\" width=\"100%\" id=\"dynamic-iframe\" src=\"https://web.hydn.cc/askdaisy/programs/audio_ttsfactory\" frameborder=\"0\" data-responsive=\"false\"></iframe>\n<p>\n<script>\n    document.addEventListener(\"DOMContentLoaded\", function() {\n    function adjustIframeHeight() {\n        const iframe = document.getElementById(\"dynamic-iframe\");\n        if (iframe) {\n            const viewportHeight = window.innerHeight;\n            const iframeOffsetTop = iframe.offsetTop;\n            const calculatedHeight = viewportHeight - iframeOffsetTop;\n            iframe.style.height = `${calculatedHeight}px`;\n        }\n    }\n\n    // Adjust on load\n    adjustIframeHeight();\n\n    // Adjust on window resize\n    window.addEventListener(\"resize\", adjustIframeHeight);\n});\n         </script>\n</p>",
+            "author": {
+                "name": "2artisans"
+            },
+            "tags": [
+                   "Toolbox",
+                   "Neurodivergence"
+            ],
+            "date_published": "2025-01-13T19:53:09-05:00",
+            "date_modified": "2025-01-16T18:32:18-05:00"
+        }
+    ]
+}
