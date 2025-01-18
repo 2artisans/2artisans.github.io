@@ -1,0 +1,277 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "c1c460e3f84cddd717d89d012ae5b2d2"
+    },
+    {
+        "path": "about-mycompass.html",
+        "type": "file",
+        "md5": "b1d3981b6e2388b5f34cb71ed6eb110b"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "45df07ca245fc0e25f9938f995dfd0ee"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "9a6ab0f51b47631cf032980696387dbc"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/brygada1918",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/brygada1918/brygada1918-italic.woff2",
+        "type": "file",
+        "md5": "a6978edef39b3d1be3a23ae082f65822"
+    },
+    {
+        "path": "/assets/dynamic/fonts/brygada1918/brygada1918.woff2",
+        "type": "file",
+        "md5": "cebc13a8cb02dc943ebb2df5d77ba4af"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "audiobook-creator-2.html",
+        "type": "file",
+        "md5": "b2bfe60ebe382c309ca38775caa14f41"
+    },
+    {
+        "path": "audiobook-creator-3.html",
+        "type": "file",
+        "md5": "a9f3b0346b6e73c7b176881c05e6d353"
+    },
+    {
+        "path": "audiobook-creator-4.html",
+        "type": "file",
+        "md5": "08bee5763e4cef66cb9b68e16c218807"
+    },
+    {
+        "path": "audiobook-creator.html",
+        "type": "file",
+        "md5": "5bd95ae07f3bfeba6da8f91db361b3cd"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/2artisans",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/2artisans/index.html",
+        "type": "file",
+        "md5": "008cb3cf5e7d8d8451a58cd5d3a74a21"
+    },
+    {
+        "path": "authors/2artisans/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/2artisans/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/2artisans/page/2/index.html",
+        "type": "file",
+        "md5": "22acc7aac2024d0cb4455ce0498cd5fe"
+    },
+    {
+        "path": "chat-test-program.html",
+        "type": "file",
+        "md5": "ef7897541ebd14fd06e9a1f448c4af58"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "05eea3e5a2d823b0b9463c8e00f1f707"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "9dd45fe619f056292209e853e464878e"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "8acc278aa8298957d2c9f489b381be67"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/BUTTRF13.png",
+        "type": "file",
+        "md5": "c13e508ac9c300931d8a1e429381e4e3"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/BUTTRF13-2xl.png",
+        "type": "file",
+        "md5": "eeabb33763d0de0a93143db2a2bc94e1"
+    },
+    {
+        "path": "/media/website/responsive/BUTTRF13-lg.png",
+        "type": "file",
+        "md5": "eeabb33763d0de0a93143db2a2bc94e1"
+    },
+    {
+        "path": "/media/website/responsive/BUTTRF13-md.png",
+        "type": "file",
+        "md5": "eeabb33763d0de0a93143db2a2bc94e1"
+    },
+    {
+        "path": "/media/website/responsive/BUTTRF13-sm.png",
+        "type": "file",
+        "md5": "eeabb33763d0de0a93143db2a2bc94e1"
+    },
+    {
+        "path": "/media/website/responsive/BUTTRF13-xl.png",
+        "type": "file",
+        "md5": "eeabb33763d0de0a93143db2a2bc94e1"
+    },
+    {
+        "path": "/media/website/responsive/BUTTRF13-xs.png",
+        "type": "file",
+        "md5": "eeabb33763d0de0a93143db2a2bc94e1"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "6403e0ef36cfdd5e944447fa31379231"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "bb69f672891756d2bf7911b9ddabf8f0"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "19a3a2afa6090c3a2cbfe5df0bebb002"
+    },
+    {
+        "path": "tags/neurodivergence",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/neurodivergence/index.html",
+        "type": "file",
+        "md5": "0c469fae10ff2aa351948671e4e7e2a9"
+    },
+    {
+        "path": "tags/toolbox",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/toolbox/index.html",
+        "type": "file",
+        "md5": "a9726112fbad6437ea0f9d34b5bf6c61"
+    },
+    {
+        "path": "tags/writing-tools",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/writing-tools/index.html",
+        "type": "file",
+        "md5": "9c684cb72c3d047c2523fa261dfa8245"
+    },
+    {
+        "path": "transition-planner.html",
+        "type": "file",
+        "md5": "4d24f659d57334420f69acc7388ddaf8"
+    }
+]

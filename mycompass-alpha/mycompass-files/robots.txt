@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://2artisans.github.io/mycompass-alpha/sitemap.xml

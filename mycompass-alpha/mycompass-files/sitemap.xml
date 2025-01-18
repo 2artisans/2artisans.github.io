@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://2artisans.github.io/mycompass-alpha/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://2artisans.github.io/mycompass-alpha/</loc>
+</url>
+<url>
+<loc>https://2artisans.github.io/mycompass-alpha/about-mycompass.html</loc>
+<lastmod>2025-01-14T13:56:51-05:00</lastmod>
+</url>
+<url>
+<loc>https://2artisans.github.io/mycompass-alpha/audiobook-creator-2.html</loc>
+<lastmod>2025-01-16T18:31:59-05:00</lastmod>
+</url>
+<url>
+<loc>https://2artisans.github.io/mycompass-alpha/audiobook-creator-3.html</loc>
+<lastmod>2025-01-16T18:31:38-05:00</lastmod>
+</url>
+<url>
+<loc>https://2artisans.github.io/mycompass-alpha/audiobook-creator-4.html</loc>
+<lastmod>2025-01-16T18:31:30-05:00</lastmod>
+</url>
+<url>
+<loc>https://2artisans.github.io/mycompass-alpha/audiobook-creator.html</loc>
+<lastmod>2025-01-16T18:32:18-05:00</lastmod>
+</url>
+<url>
+<loc>https://2artisans.github.io/mycompass-alpha/chat-test-program.html</loc>
+<lastmod>2025-01-16T18:28:18-05:00</lastmod>
+</url>
+<url>
+<loc>https://2artisans.github.io/mycompass-alpha/transition-planner.html</loc>
+<lastmod>2025-01-16T18:32:10-05:00</lastmod>
+</url>
+</urlset>
